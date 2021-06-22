@@ -1,2 +1,4 @@
-# hacker_rank_sales_by_match
-Hacker Rank's Sales By Match solution in Python
+# Sales By Match
+Hacker Rank's Sales By Match solution in Python.
+
+No need to implement constraints, you will pass the test anyway.
